@@ -1,8 +1,13 @@
 <h2 align="left">Olá eu Sou o Dev Adriano 🔥</h2>
+</br>
+</br>
+</br>
 
 - Comecei na área de informática com manutenção em impressora. Depois voltei a estudar me formei hardware/software me especializei notebook e games Atualmente exerço serviço de consultor de informática identificar, problemas e oferecer soluções para os processos de uma pessoa ou para uma empresa. Voltei a estudar e conheci um mundo novo acabei o curso de Desenvolvedor Full Stack agora estou montando meu portfólio e vou mudar de área.
+</br>
+</br>
+</br>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=adriano-dev963" height="150" alt="stats graph"  />
@@ -11,7 +16,9 @@
 
 
 ###
-
+</br>
+</br>
+</br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
  
@@ -23,7 +30,9 @@
 </div>
 
 ###
-
+</br>
+</br>
+</br>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -34,16 +43,10 @@
 </div>
 
 ###
+</br>
+</br>
+</br>
 
-<br clear="both">
-
-<img align="right" height="500" src="https://img.elo7.com.br/product/zoom/1234983/adesivo-arvore-tecnologia-arvore-tecnologica.jpg"  />
-
-###
-
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/adriano-dev963/adriano-dev963/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
