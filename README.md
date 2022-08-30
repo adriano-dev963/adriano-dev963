@@ -52,7 +52,6 @@
 
 ![Snake animation](https://github.com/adriano-dev963/adriano-dev963/blob/output/github-contribution-grid-snake.svg)
  
-</div>
  
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=adriano-dev963&repo=adriano-dev963&theme=react)](https://github.com/adriano-dev963/adriano-dev963)
 
